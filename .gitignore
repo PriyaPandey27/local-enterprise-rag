@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+rag_env/
+.env/
+
+# Streamlit
+.streamlit/
+
+# FAISS indexes created at runtime
+*.faiss
+*.index
+
+# Temp / uploads
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
