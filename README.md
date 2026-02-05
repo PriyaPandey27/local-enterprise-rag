@@ -40,7 +40,7 @@ A 100% local, privacy-focused RAG system using Streamlit, LangChain, Ollama, and
     streamlit run app.py
     ```
 
-2.  The application will open in your browser at `http://localhost:8501`.
+2.  The application will open in your browser.
 
 ## Usage
 
@@ -48,6 +48,7 @@ A 100% local, privacy-focused RAG system using Streamlit, LangChain, Ollama, and
 2.  **Process**: Click "Process & Index Sources" to build the local knowledge base. Wait for the "System Ready" indicator.
 3.  **Query**: Type your question in the main search bar.
 4.  **Results**: View the "Final Answer," "Source Citations," and "Retriever Insights" (showing exact text chunks retrieved).
+
 
 
 
